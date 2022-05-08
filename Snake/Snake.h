@@ -1,3 +1,11 @@
+using namespace std;
+#include <iostream>
+#include <stdlib.h>
+#include <windows.h>
+#include <conio.h>
+#include <stdlib.h>    
+#include <time.h> 
+
 class Field
 {
 
