@@ -5,6 +5,8 @@
 #include <iostream>
 #include<string>
 
+const int N=10;
+
 class Student {
 
 	string name;
