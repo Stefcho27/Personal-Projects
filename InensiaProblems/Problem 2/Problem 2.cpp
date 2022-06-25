@@ -1,3 +1,4 @@
+#include "Problem 2.h"
 Student::Student() 
 {
 	name = "Steve";
